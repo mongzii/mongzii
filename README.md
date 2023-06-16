@@ -1,5 +1,6 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200)
+### Welcome 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=195&text=mongzii%20profile)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongzii&show_icons=true&theme=gotham)
 <!--
 **mongzii/mongzii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
