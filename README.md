@@ -1,6 +1,9 @@
 ### Welcome 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=195&text=mongzii%20profile)
 
+## ✉️ Contact ✉️
+mongzii228@gmail.com
+
 ## 👩‍💻 My Github Stats👩‍💻
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mongzii&show_icons=true&theme=gotham)
 
@@ -16,8 +19,7 @@
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-## ✉️ Contact ✉️
-mongzii228@gmail.com
+
 
 <!--
 **mongzii/mongzii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
